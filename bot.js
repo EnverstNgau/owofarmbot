@@ -172,11 +172,11 @@ rpc.on("ready", () => {
         buttons: [
             {
                 label: "Farm Bot",
-                url: "https://github.com/Mid0aria/owofarmbot",
+                url: "https://github.com/EnverstNgau/owofarmbot",
             },
             {
                 label: "Developer",
-                url: "https://github.com/Mid0aria/",
+                url: "https://github.com/EnverstNgau",
             },
         ],
     });
@@ -242,7 +242,7 @@ if (settings.banbypass) {
     global.extrabanc = false;
 
     console.log(
-        chalk.yellow("Captcha (ban) Bypass System by Aix ") +
+        chalk.yellow("Captcha (ban) Bypass System by Enverst Remake ") +
             chalk.blue(`version ${banversion}`)
     );
     console.log(`{/__/}\n( ^ . ^)\n/ > ` + chalk.red("Captcha Bypass"));
