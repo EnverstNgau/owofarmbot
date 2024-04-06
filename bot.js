@@ -1,5 +1,4 @@
 global.love = "e<3"; // 💔
-//coded by @mid0aria on github
 const os = require("os");
 if (os.userInfo().username === "DESKTOP-3VVC3") {
     console.log(".l.");
