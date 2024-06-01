@@ -5,7 +5,7 @@
     "main": "bot.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Mid0aria/owofarmbot.git"
+        "url": "git+https://github.com/EnverstNgau/owofarmbot.git"
     },
     "keywords": [
         "nodejs",
@@ -41,10 +41,11 @@
         "request": "^2.88.2",
         "seedrandom": "^3.0.5",
         "socket.io": "^4.6.2",
-        "socket.io-client": "^4.6.2"
+        "socket.io-client": "^4.6.2",
+        "systeminformation": "^5.22.7"
     },
     "bugs": {
-        "url": "https://github.com/Mid0aria/owofarmbot/issues"
+        "url": "https://github.com/EnverstNgau/owofarmbot/issues"
     },
-    "homepage": "https://github.com/Mid0aria/owofarmbot#readme"
+    "homepage": "https://github.com/EnverstNgau/owofarmbot#readme"
 }
